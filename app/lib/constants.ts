@@ -132,4 +132,14 @@ export const VOICES = [
     support_pause: true,
     emotion_support: false,
   },
+  {
+    voice_id: "ae3916e419724a9bae020c394c4453c7",
+    language: "English",
+    gender: "Male",
+    name: "BP - Serious",
+    preview_audio:
+      "https://static.heygen.ai/voice_preview/fa3728bed81a4d11b8ccef10506af5f4.wav",
+    support_pause: true,
+    emotion: "Serious",
+  },
 ];
