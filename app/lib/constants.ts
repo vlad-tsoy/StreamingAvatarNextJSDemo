@@ -141,5 +141,15 @@ export const VOICES = [
       "https://static.heygen.ai/voice_preview/fa3728bed81a4d11b8ccef10506af5f4.wav",
     support_pause: true,
     emotion: "Serious",
+  }, ,
+  {
+    voice_id: "901ea1acba61486186ac5e41289301ec",
+    language: "English",
+    gender: "Female",
+    name: "Kristina - Natural",
+    preview_audio:
+      "https://static.heygen.ai/voice_preview/fa3728bed81a4d11b8ccef10506af5f4.wav",
+    support_pause: true,
+    emotion: "Excited",
   },
 ];
