@@ -23,6 +23,16 @@ export const AVATARS = [
 
 export const VOICES = [
   {
+    voice_id: "ae3916e419724a9bae020c394c4453c7",
+    language: "English",
+    gender: "Male",
+    name: "Ben - Natural",
+    preview_audio:
+      "https://static.heygen.ai/voice_preview/k6dKrFe85PisZ3FMLeppUM.mp3",
+    support_pause: true,
+    emotion_support: false,
+  },
+  {
     voice_id: "077ab11b14f04ce0b49b5f6e5cc20979",
     language: "English",
     gender: "Male",
